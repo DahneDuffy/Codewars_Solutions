@@ -21,3 +21,5 @@ function domainName(url){
       return third[0]
     }
       }
+
+       //end

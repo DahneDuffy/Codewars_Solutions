@@ -23,3 +23,5 @@ function hasOneChar(s) {
     return s === s[0].repeat(s.length);
     
   }
+
+   //end

@@ -43,3 +43,5 @@ function iterPi(epsilon) {
     let result = (4*piApprox).toFixed(10)
     return [counter,Number(result)]
   }
+
+   //end

@@ -36,3 +36,5 @@ function pattern(n){
      
     return output;
    }
+
+    //end

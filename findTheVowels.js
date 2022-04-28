@@ -25,3 +25,5 @@ function vowelIndices(word){
     }
     return result;
   }
+
+   //end

@@ -26,3 +26,5 @@ function solve(s){
    },[0,0,0,0])
     return result;
   }
+
+ //end

@@ -59,3 +59,5 @@ function chmodCalculator(perm) {
     
     return '' + octal(perm.user) + octal(perm.group) + octal(perm.other); 
   }
+
+   //end

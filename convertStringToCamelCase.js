@@ -13,3 +13,5 @@ function toCamelCase(str){
    return result.join('');
  
  }
+
+  //end

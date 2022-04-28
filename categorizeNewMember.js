@@ -24,4 +24,5 @@ function openOrSenior(data){
          }
     }
     return membership;
-  }
+  }   
+   //end

@@ -29,3 +29,5 @@ function to_nato(words) {
        return el!=" ";
      }).join(' ');
   }
+
+   //end

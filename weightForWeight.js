@@ -38,3 +38,5 @@ function orderWeight(strng) {
     });
     return result.join(" ");
   }
+
+ //end

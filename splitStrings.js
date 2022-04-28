@@ -19,3 +19,5 @@ function solution(str){
     }
      return newArr;
   }
+
+ //end

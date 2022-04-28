@@ -13,3 +13,5 @@ function solution(str, ending){
     
     return sliceLength > 0 ? ending == sliceString : true;
   }
+
+ //end

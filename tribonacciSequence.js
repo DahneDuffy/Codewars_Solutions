@@ -26,3 +26,5 @@ function tribonacci(signature,n){
     };
     return tribArr.slice(0,n);
   }
+
+ //end

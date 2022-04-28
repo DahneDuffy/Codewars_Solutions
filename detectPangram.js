@@ -14,3 +14,5 @@ function isPangram(string){
     }
     return stringArr.length==26;
   }
+
+   //end

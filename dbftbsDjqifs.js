@@ -36,3 +36,5 @@ function encryptor (key, message) {
     
     return result.join('');
     }
+
+     //end
